@@ -1,13 +1,10 @@
 <h1 align="center">Muhammad Talha Faizan</h1>
-
 <p align="center">
   <b>Full Stack Developer | AI/ML Engineer</b>
 </p>
-
 <p align="center">
   Building full-stack applications, AI-powered systems, backend services, and automation solutions.
 </p>
-
 <p align="center">
   <a href="https://github.com/talha-xml">GitHub</a> •
   <a href="https://linkedin.com/in/m-talha-faizan-46158532a">LinkedIn</a> •
@@ -15,7 +12,6 @@
   <a href="mailto:mtalhafaizan30@gmail.com">Email</a>
 </p>
 
----
 
 ## About Me
 
@@ -42,28 +38,21 @@ REST APIs, database-driven platforms, and cloud-hosted projects.
 
 ### What I've Built
 
-**ReMIND — GenAI Memory Rebuilder**  
-A full-stack AI application combining React, FastAPI, PostgreSQL,
-RAG, vector databases, LLMs, speech processing, and image understanding.
+**ReMIND: Generative AI Based Memory Rebuilder**  
+A proof-of-concept AI-powered web application designed to assist individuals experiencing memory loss, including Alzheimer's and dementia patients. By combining text, images, and voice recordings, the system reconstructs fragmented memories into meaningful narratives, helping users to reconnect with important moments in their lives. Our goal was to build technology with empathy where AI supports not only productivity but also human connection and emotional well-being. The project integrates modern AI techniques with a secure, user-friendly platform for memory reconstruction and cognitive support. 
 
-**Risuto — Anime Tracking Platform**  
-A MERN-based application built with React, Node.js, Express,
-MongoDB, and deployed cloud infrastructure.
+**Risuto: Anime Tracking Platform**  
+Risuto is a full-stack anime tracking web application designed to help users manage and organize their anime collection. It allows users to add anime, track watching status, set priorities, manage genres, mark favorites, and store personal notes. The application features user authentication, a responsive anime-themed interface, dashboard analytics, and a personal library. It also features AI powered assistive chatbot which keeps tracks of user's library and personalizations and helps in providing suggestions based on user's past activity.
 
 **Personal Portfolio**  
-A web portfolio showcasing my projects, technical skills, and development work.
+My personal portfolio website about my skills, services and projects that I have built - All in One Place!
 
 ### Currently Working On
 
 I'm currently expanding my skills in **Flutter and Dart**, building
-cross-platform mobile applications and learning Flutter architecture,
-navigation, forms, state management, and application development.
+cross-platform mobile applications and learning Flutter architecture, state management
+and application development.
 
-Alongside Flutter, I'm continuing to strengthen my knowledge of
-**backend engineering, AI integrations, DevOps, Docker, CI/CD, and cloud
-deployment**.
-
----
 
 ## Tech Stack
 
@@ -119,7 +108,6 @@ deployment**.
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
 
 ## Currently Learning
 
@@ -131,8 +119,6 @@ deployment**.
 - Cloud & DevOps
 - Scalable Backend Architecture
 
----
-
 ## GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=talha-xml&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
@@ -141,8 +127,7 @@ deployment**.
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=talha-xml&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
 
 <p align="center">
-  <i>Building, learning, and turning ideas into software.</i>
+  <i>Building, learning, and turning ideas into software with meaningful solutions.</i>
 </p>
