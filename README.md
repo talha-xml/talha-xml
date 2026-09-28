@@ -119,15 +119,6 @@ and application development.
 - Cloud & DevOps
 - Scalable Backend Architecture
 
-## GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api?username=talha-xml&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://streak-stats.demolab.com/?user=talha-xml&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=talha-xml&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
 <p align="center">
   <i>Building, learning, and turning ideas into software with meaningful solutions.</i>
 </p>
