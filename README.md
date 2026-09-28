@@ -105,6 +105,8 @@ deployment**.
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-009688?style=for-the-badge)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases-5E35B1?style=for-the-badge)
 
 ### DevOps, Cloud & Tools
 
