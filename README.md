@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Muhammad Talha Faizan </h1>
+<h1 align="center">Hello, I'm Muhammad Talha Faizan </h1>
 <p align="center">
   <b>Full Stack Developer | AI/ML Engineer</b>
 </p>
@@ -117,14 +117,3 @@ and development journey.
 - Flutter & Dart
 - State Management
 - Mobile Application Development
-- Docker & CI/CD
-- Cloud & DevOps
-- System Design
-
-## Connect With Me
-
-<p align="center">
-  <a href="https://github.com/talha-xml">GitHub</a> •
-  <a href="https://linkedin.com/in/m-talha-faizan-46158532a/">LinkedIn</a> •
-  <a href="https://personal-portfolio-r2fm.onrender.com">Portfolio</a>
-</p>
