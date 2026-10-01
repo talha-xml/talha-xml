@@ -112,12 +112,7 @@ and application development.
 ## Currently Learning
 
 - Flutter & Dart
-- Flutter Navigation & Forms
-- State Management
 - Mobile Application Development
-- Docker & CI/CD
-- Cloud & DevOps
-- Scalable Backend Architecture
 
 <p align="center">
   <i>Building, learning, and turning ideas into software with meaningful solutions.</i>
