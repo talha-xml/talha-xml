@@ -1,11 +1,4 @@
 <h1 align="center">Muhammad Talha Faizan</h1>
-<p align="center">
-  <b>Full Stack Developer | AI/ML Engineer</b>
-</p>
-<p align="center">
-  Building full-stack applications, AI-powered systems, backend services, and automation solutions.
-</p>
-<h1 align="center">Muhammad Talha Faizan</h1>
 
 <p align="center">
   <b>Full Stack Developer | AI/ML Engineer</b>
