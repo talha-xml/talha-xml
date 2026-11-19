@@ -5,18 +5,18 @@
 <p align="center">
   Building full-stack applications, AI-powered systems, backend services, and automation solutions.
 </p>
-<a href="https://github.com/talha-xml">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/m-talha-faizan-46158532a">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="https://personal-portfolio-r2fm.onrender.com">
-    <img src="https://shields.io" alt="Portfolio" />
-  </a>
-  <a href="mailto:mtalhafaizan30@gmail.com">
-    <img src="https://shields.io" alt="Email" />
-  </a>
+<a href="https://github.com/talha-xml" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://linkedin.com/in/m-talha-faizan-46158532a" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://personal-portfolio-r2fm.onrender.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-34D399?style=for-the-badge&logo=google-chrome&logoColor=060D09" alt="Portfolio" />
+</a>
+<a href="mailto:mtalhafaizan30@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
   
 
 ## About Me
