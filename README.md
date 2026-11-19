@@ -6,19 +6,12 @@
   Building full-stack applications, AI-powered systems, backend services, and automation solutions.
 </p>
 <p align="center">
-  <a href="https://github.com/talha-xml">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/m-talha-faizan-46158532a">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="https://personal-portfolio-r2fm.onrender.com">
-    <img src="https://shields.io" alt="Portfolio" />
-  </a>
-  <a href="mailto:mtalhafaizan30@gmail.com">
-    <img src="https://shields.io" alt="Email" />
-  </a>
+  [![GitHub](https://shields.io)](https://github.com)
+  [![LinkedIn](https://shields.io)](https://linkedin.com)
+  [![Portfolio](https://shields.io)](https://onrender.com)
+  [![Email](https://shields.io)](mailto:mtalhafaizan30@gmail.com)
 </p>
+
 
 
 
